@@ -25,4 +25,7 @@
 
 ## answers
 
-1. 
+1. The train leaving New York at 3 PM will arrive first, as it has a head start of 1 hour.
+2. In the year 3025, the time traveler finds themselves in a world where technology has advanced significantly, and they must adapt to the new reality.
+3. The bread will freeze and become hard and dry.
+4. The answer is 23.
