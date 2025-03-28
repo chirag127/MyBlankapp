@@ -4,6 +4,9 @@ cd campaign-manager3
 npx create-expo-app --template blank myqrsay
 cd myqrsay
 
+npx create-expo-app --template blank facebook-clone
+cd facebook-clone
+
 9. 8. ScreenBloom: Social Media Detox
 Concept: Replace mindless scrolling with mindfulness.
 Unique Twist:
