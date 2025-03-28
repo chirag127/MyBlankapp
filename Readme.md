@@ -1,5 +1,8 @@
-npx create-expo-app --template blank campaign-manager
-cd campaign-manager
+npx create-expo-app --template blank campaign-manager3
+cd campaign-manager3
+
+npx create-expo-app --template blank myqrsay
+cd myqrsay
 
 9. 8. ScreenBloom: Social Media Detox
 Concept: Replace mindless scrolling with mindfulness.
